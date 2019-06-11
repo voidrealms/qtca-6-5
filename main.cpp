@@ -6,7 +6,7 @@ https://retifrav.github.io/blog/2018/02/17/build-qt-statically/
 
 Can be frustrating
 Takes a long time
-Fully of bugs issues and show stoppers
+Full of bugs issues and show stoppers
 
 
 cd /home/rootshell/Applications
